@@ -1,0 +1,15 @@
+label{
+   width: 224px;
+   line-height: 45px;
+   display: block;
+}
+
+input{
+  width: 50%;
+  line-height: 50px;
+  text-align: right;
+  border-radius: 8px;
+  border: 1px solid gray;
+  outline: none;
+  font-size: 2rem;
+} 
